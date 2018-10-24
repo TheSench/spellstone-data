@@ -92738,6 +92738,204 @@ var CARDS = {
 			}
 		}
 	},
+	"7603": {
+		"attack": 6,
+		"card_type": "2",
+		"cost": 2,
+		"health": 23,
+		"hidden_until": "1540486800000",
+		"id": "7603",
+		"maxLevel": 10,
+		"name": "Formyr the Desecrated",
+		"picture": "Undead_Flesh_A",
+		"rarity": "4",
+		"set": "5100",
+		"shard_card": 1,
+		"skill": [
+			{
+				"id": "evade",
+				"x": 2
+			},
+			{
+				"id": "poison",
+				"x": 7
+			},
+			{
+				"all": "1",
+				"id": "enrage",
+				"x": 3
+			}
+		],
+		"sub_type": [
+			"7"
+		],
+		"type": "3",
+		"upgrades": {
+			"2": {
+				"health": 24,
+				"skill": [
+					{
+						"id": "evade",
+						"x": 2
+					},
+					{
+						"id": "poison",
+						"x": 8
+					},
+					{
+						"all": "1",
+						"id": "enrage",
+						"x": 3
+					}
+				]
+			},
+			"3": {
+				"attack": 7,
+				"skill": [
+					{
+						"id": "evade",
+						"x": 3
+					},
+					{
+						"id": "poison",
+						"x": 8
+					},
+					{
+						"all": "1",
+						"id": "enrage",
+						"x": 3
+					}
+				]
+			},
+			"4": {
+				"health": 25,
+				"skill": [
+					{
+						"id": "evade",
+						"x": 3
+					},
+					{
+						"id": "poison",
+						"x": 8
+					},
+					{
+						"all": "1",
+						"id": "enrage",
+						"x": 4
+					}
+				]
+			},
+			"5": {
+				"attack": 8,
+				"health": 26,
+				"skill": [
+					{
+						"id": "evade",
+						"x": 3
+					},
+					{
+						"id": "poison",
+						"x": 9
+					},
+					{
+						"all": "1",
+						"id": "enrage",
+						"x": 4
+					}
+				]
+			},
+			"6": {
+				"health": 27,
+				"skill": [
+					{
+						"id": "evade",
+						"x": 3
+					},
+					{
+						"id": "poison",
+						"x": 9
+					},
+					{
+						"all": "1",
+						"id": "enrage",
+						"x": 5
+					}
+				]
+			},
+			"7": {
+				"health": 28,
+				"skill": [
+					{
+						"id": "evade",
+						"x": 3
+					},
+					{
+						"id": "poison",
+						"x": 10
+					},
+					{
+						"all": "1",
+						"id": "enrage",
+						"x": 5
+					}
+				]
+			},
+			"8": {
+				"health": 29,
+				"skill": [
+					{
+						"id": "evade",
+						"x": 3
+					},
+					{
+						"id": "poison",
+						"x": 11
+					},
+					{
+						"all": "1",
+						"id": "enrage",
+						"x": 5
+					}
+				]
+			},
+			"9": {
+				"attack": 9,
+				"skill": [
+					{
+						"id": "evade",
+						"x": 3
+					},
+					{
+						"id": "poison",
+						"x": 12
+					},
+					{
+						"all": "1",
+						"id": "enrage",
+						"x": 5
+					}
+				]
+			},
+			"10": {
+				"health": 30,
+				"skill": [
+					{
+						"id": "evade",
+						"x": 4
+					},
+					{
+						"id": "poison",
+						"x": 12
+					},
+					{
+						"all": "1",
+						"id": "enrage",
+						"x": 6
+					}
+				]
+			}
+		}
+	},
 	"8000": {
 		"attack": 3,
 		"card_type": "2",
