@@ -1,3 +1,5 @@
+"use strict"
+
 var LOCATIONS = {
 	"0": {
 		"id": "0",

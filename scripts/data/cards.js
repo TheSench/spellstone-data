@@ -1,3 +1,5 @@
+"use strict"
+
 var CARDS = {
 	"1": {
 		"card_type": "1",

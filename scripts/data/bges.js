@@ -1,3 +1,5 @@
+"use strict"
+
 var BATTLEGROUNDS = {
 	"101": {
 		"desc": "All Dragons are bestowed with extraordinary vitality, causing them to be Healed each turn by 25%.",
