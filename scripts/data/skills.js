@@ -1,6 +1,6 @@
 "use strict"
 
-var FUSIONS = {
+var SKILL_DATA = {
 	"absorb": {
 		"desc": "Prevents X damage taken from skills each round.",
 		"icon": "absorb",
